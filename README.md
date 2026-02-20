@@ -1,24 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">I build logics ⚡ | Full Stack Developer from Pakistan 🇵🇰</h3>
 
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on Full Stack Projects
-- 🌱 I’m learning Advanced Backend & System Design
-- 💬 Ask me about React, TypeScript, Node.js
-- ⚡ Fun fact: I build logic, not just UI
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
-</a>
-</p>
-
----
+<h3 align="start">I build logics ⚡</h3>
 
 ### 🛠️ Tech Stack
 
