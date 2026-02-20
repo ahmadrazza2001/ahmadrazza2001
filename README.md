@@ -41,7 +41,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ahmadrazza2001&show_icons=true&theme=tokyonight" />
 </p>
 
@@ -51,8 +51,11 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrazza2001&layout=compact&theme=tokyonight" />
+</p> -->
+<p>
+<img src="https://img.shields.io/badge/Code%20Time-1,915%20hrs%2050%20mins-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Lines%20of%20Code-12.18M-blue?style=flat-square" />
 </p>
-
 ---
 
 ### 🔥 Contribution Graph
