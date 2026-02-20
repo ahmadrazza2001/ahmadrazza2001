@@ -47,12 +47,8 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadrazza2001&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadrazza2001" />
 </p>
 
 ---
 
-### 🏆 Achievements
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=ahmadrazza2001&theme=onedark" />
-</p>
