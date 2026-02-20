@@ -53,8 +53,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrazza2001&layout=compact&theme=tokyonight" />
 </p> -->
 <p>
-<img src="https://img.shields.io/badge/Code%20Time-1,915%20hrs%2050%20mins-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Lines%20of%20Code-12.18M-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Code%20Time-1,278%20hrs%2050%38mins-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Lines%20of%20Code-9.59M-blue?style=flat-square" />
 </p>
 ---
 
